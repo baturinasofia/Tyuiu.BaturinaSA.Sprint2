@@ -2,7 +2,7 @@
 
 namespace Tyuiu.BaturinaSA.Sprint2.Task7.V7
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
